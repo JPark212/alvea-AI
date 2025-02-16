@@ -1,3 +1,4 @@
+𝕏 https://x.com/alvea_ai
 # Alvea - Revolutionizing User Interaction with AI
 
 | --- |
