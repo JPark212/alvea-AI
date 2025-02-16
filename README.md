@@ -1,8 +1,7 @@
-𝕏 https://x.com/alvea_ai
-# Alvea - Revolutionizing User Interaction with AI
+🌎 https://alvea-ai.vercel.app/
+𝕏  https://x.com/alvea_ai
 
-| --- |
-| [<img width="2042" alt="image" src="https://github.com/Glavin001/Alvea-AI/assets/1885333/fad5833e-951b-4361-b5b1-c04477726fe9">](https://www.loom.com/share/0d057eabb1bb430d8902bf7fdc1f3911?t=142&sid=163c6712-15d4-42f2-898b-165903617bdb) |
+# Alvea - Revolutionizing User Interaction with AI
 
 | About Alvea | 🥇 1st Place Winning Team |
 | --- | --- |
