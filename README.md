@@ -1,5 +1,5 @@
 🌎 https://alvea-ai.vercel.app/
-𝕏  https://x.com/alvea_ai
+𝕏  https://x.com/alvea_aix
 
 # Alvea - Revolutionizing User Interaction with AI
 
@@ -64,17 +64,17 @@ These are the example tasks demonstrated during the hackathon to showcase how Al
   </tr>
   <tr>
     <td>
-      <a href="https://www.loom.com/share/0d057eabb1bb430d8902bf7fdc1f3911?t=182&sid=30184ea9-2e78-4efd-99ce-c04de60fcf6e">
+      <a
         <img width="2045" alt="image" src="https://github.com/Glavin001/Alvea-AI/assets/1885333/452271f0-2a52-403e-b5f4-6c27c9d678aa">
       </a>
     </td>
     <td>
-        <a href="https://www.loom.com/share/0d057eabb1bb430d8902bf7fdc1f3911?t=243&sid=aa4fd1d2-5907-4195-a7df-b4ae55e893f4">
+        <a
             <img width="384" alt="image" src="https://github.com/Glavin001/Alvea-AI/assets/1885333/6afcd6f9-8fd2-43e3-acff-3f0f9a43afa7">
         </a>
     </td>
     <td>
-        <a href="https://www.loom.com/share/0d057eabb1bb430d8902bf7fdc1f3911?t=243&sid=aa4fd1d2-5907-4195-a7df-b4ae55e893f4">
+        <a 
             <img width="1449" alt="image" src="https://github.com/Glavin001/Alvea-AI/assets/1885333/6c76ce47-4ca6-4372-80ec-4a4581ff1b15">
         </a>
     </td>
