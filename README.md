@@ -5,8 +5,8 @@
 
 # Alvea - Revolutionizing User Interaction with AI
 
-| About Alvea | 🥇 1st Place Winning Team |
-| --- | --- |
+| About |
+
 | **Alvea is an innovative application designed to enhance productivity and user experience by leveraging generative user interfaces.**<br/><br/>Developed during [Generative UI hackathon](https://partiful.com/e/1antxX3cgLArJFGRNKg4) at [AGI House SF](https://agihouse.ai/), Alvea addresses the limitations of existing AI chat applications by offering dynamic, just-in-time user interfaces that adapt to the user's tasks and needs. |   |
 
 ## The Problem
