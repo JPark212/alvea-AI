@@ -5,7 +5,7 @@
 
 | About Alvea | 🥇 1st Place Winning Team |
 | --- | --- |
-| **Alvea is an innovative application designed to enhance productivity and user experience by leveraging generative user interfaces.**<br/><br/>Developed during [Generative UI hackathon](https://partiful.com/e/1antxX3cgLArJFGRNKg4) at [AGI House SF](https://agihouse.ai/), Alvea addresses the limitations of existing AI chat applications by offering dynamic, just-in-time user interfaces that adapt to the user's tasks and needs. | <img width="1136" alt="image" src="https://github.com/Glavin001/Alvea-AI/assets/1885333/c3a9287f-e17e-4889-b30c-2b2c57934a22"> |
+| **Alvea is an innovative application designed to enhance productivity and user experience by leveraging generative user interfaces.**<br/><br/>Developed during [Generative UI hackathon](https://partiful.com/e/1antxX3cgLArJFGRNKg4) at [AGI House SF](https://agihouse.ai/), Alvea addresses the limitations of existing AI chat applications by offering dynamic, just-in-time user interfaces that adapt to the user's tasks and needs. |  src="https://github.com/Glavin001/Alvea-AI/assets/1885333/c3a9287f-e17e-4889-b30c-2b2c57934a22"> |
 
 ## The Problem
 
@@ -38,12 +38,12 @@ These are the example tasks demonstrated during the hackathon to showcase how Al
 <table>
   <tr>
     <th>
-        <a href="https://www.loom.com/share/0d057eabb1bb430d8902bf7fdc1f3911?t=182&sid=30184ea9-2e78-4efd-99ce-c04de60fcf6e">
+        <a
         Trip Planning
         </a>
     </th>
     <th colspan="2">
-        <a href="https://www.loom.com/share/0d057eabb1bb430d8902bf7fdc1f3911?t=243&sid=aa4fd1d2-5907-4195-a7df-b4ae55e893f4">
+        <a 
         Home Theater Setup
         </a>
     </th>
