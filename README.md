@@ -1,5 +1,5 @@
 🌎 https://alvea-ai.vercel.app/
-𝕏  https://x.com/alvea_aix
+𝕏  https://x.com/alvea_ai
 💻 https://youtube.com/@alveaai?si=1nR3jTmJM-B8WzTL
 📄 https://alveaai.gitbook.io/alveaai-docs/knowledge-hub/welcome-to-alvea-ai
 
